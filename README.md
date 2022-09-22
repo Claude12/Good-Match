@@ -1,4 +1,4 @@
-# Assessment: Good Match
+# Good Match App
  
  Run 'npm install' to install dependencies
  Run 'node app.js' to run the program
